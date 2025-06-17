@@ -1,0 +1,88 @@
+{
+  "hash": "443f6380",
+  "configHash": "dd62d427",
+  "lockfileHash": "38754eed",
+  "browserHash": "616d0795",
+  "optimized": {
+    "@amcharts/amcharts5": {
+      "src": "../../../../../../../node_modules/@amcharts/amcharts5/index.js",
+      "file": "@amcharts_amcharts5.js",
+      "fileHash": "2ad41419",
+      "needsInterop": false
+    },
+    "@amcharts/amcharts5/themes/Animated": {
+      "src": "../../../../../../../node_modules/@amcharts/amcharts5/themes/Animated.js",
+      "file": "@amcharts_amcharts5_themes_Animated.js",
+      "fileHash": "8dcdb8fa",
+      "needsInterop": false
+    },
+    "@amcharts/amcharts5/xy": {
+      "src": "../../../../../../../node_modules/@amcharts/amcharts5/xy.js",
+      "file": "@amcharts_amcharts5_xy.js",
+      "fileHash": "ba8f166d",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "377a263f",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "4238e06f",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "551b7a0c",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "e0123c9f",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "cbf467ba",
+      "needsInterop": false
+    },
+    "date-fns": {
+      "src": "../../../../../../../node_modules/date-fns/index.js",
+      "file": "date-fns.js",
+      "fileHash": "59761e09",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KH4I72RD": {
+      "file": "chunk-KH4I72RD.js"
+    },
+    "chunk-QF7X2JEG": {
+      "file": "chunk-QF7X2JEG.js"
+    },
+    "chunk-VJCG2V6R": {
+      "file": "chunk-VJCG2V6R.js"
+    },
+    "chunk-JZ65WIRU": {
+      "file": "chunk-JZ65WIRU.js"
+    },
+    "chunk-IBXRYYIM": {
+      "file": "chunk-IBXRYYIM.js"
+    },
+    "chunk-ZRT3W5Y6": {
+      "file": "chunk-ZRT3W5Y6.js"
+    },
+    "chunk-GJAHRQ4T": {
+      "file": "chunk-GJAHRQ4T.js"
+    },
+    "chunk-XWLXMCJQ": {
+      "file": "chunk-XWLXMCJQ.js"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "monthlyData": [
+    { "month": "2025-01", "allCustomers": 7.9, "loyaltyCustomers": 7.8 },
+    { "month": "2025-02", "allCustomers": 18.3, "loyaltyCustomers": 18.3 },
+    { "month": "2025-03", "allCustomers": 14.7, "loyaltyCustomers": 14.7 },
+    { "month": "2025-04", "allCustomers": 22.2, "loyaltyCustomers": 22.5 },
+    { "month": "2025-05", "allCustomers": 26.1, "loyaltyCustomers": 26.1 },
+    { "month": "2025-06", "allCustomers": 10.9, "loyaltyCustomers": 10.4 }
+  ]
+}
