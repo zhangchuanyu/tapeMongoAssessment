@@ -11,8 +11,9 @@ The frontend is built with Angular.
 1. Install dependencies:
    ```bash
    npm install
-2.Run the Angular development server:
-ng serve
+2. Run the Angular development server:
+    ```bash
+   ng serve
 
 ## Backend
 The backend API is a .NET project.
